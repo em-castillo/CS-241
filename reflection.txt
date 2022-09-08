@@ -1,0 +1,34 @@
+Your Name: Emily Castillo
+
+
+1. In your own words, please describe object-oriented programming and explain why it is useful.
+OOP is a paradigm that structures a program into functions, classes, methods, and objects. Using 
+OOP makes the program readable, easy to understand, and organized. Also, it makes the code reusable
+and has easy access for modifications. OOP allows communication between classes and objects by 
+inheritance and polymorphism.
+
+
+2. Of all the different data structures we discussed, which one do you think is the "coolest" and why?
+I think List Manipulation is the coolest because it is the most common data structure I have been using in 
+Python classes. The methods allow working with lists in many different ways. Learning about lists 
+manipulation was helpful. Also, because some of the list built-in methods are used in arrays.  
+
+
+3. What is the most interesting thing you learned this semester?
+The most interesting thing I learned this semester was inheritance. It made it easier to write code, 
+and it made it work by reusing variables and data. It is maintenable and reduces a lot of repetition.
+
+
+4. If this course included three more weeks, what additional topic(s) would you like to learn about?
+I would like to learn about using more libraries. Pandas, Seaborn, and Matplotlib were very useful. I 
+wonder what other libraries would be helpful to know.
+
+
+5. What was the biggest misconception you had about this material prior to this semester?
+Before taking this class, I thought it was going to be very difficult, and I would have to learn a lot of abstract 
+programming that I would not understand. Nevertheless, learning OOP has been very helpful. I can see myself working 
+in the future with this paradigm.
+
+
+6. Do you have any final questions/comments for your instructor?
+Thanks for the teachings from this semester!
